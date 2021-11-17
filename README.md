@@ -2,35 +2,48 @@
 
 ## Profissional de TI
 
-[![Linkedin](https://img.shields.io/badge/Linkedin--blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/luis-carlos-zancanela/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-carlos-zancanela/)
 
-Apaixonado por TI e Administração, áreas aparentemente distintas, mas que são intimamente ligadas. Cada dia mais, a informação tem papel importante na gestão, eu escolhi atuar pela TI.
+<br>
 
-Porém a tecnologia por si só não é a solução, é necessário conhecimento do negócio para desenvolver e aplicar o melhor da tecnologia, ou mesmo inovar. Bill Gates já mencionou 2 regras para automação que servem para TI como um todo:
+<div align="center">
+	<a href="https://github.com/didifive">
+		<img
+		     height="180em"
+		     src="https://github-readme-stats.vercel.app/api?username=didifive&show_icons=true&theme=merko&include_all_commits=true&count_private=true"
+		/>
+		<img
+		     height="180em"
+		     src="https://github-readme-stats.vercel.app/api/top-langs/?username=didifive&layout=compact&langs_count=7&theme=merko"
+		/>
+	</a>	  
+</div>
+
+<br>
+
+Apaixonado por TI e Gestão, áreas que mesmo aparentemente distintas são complementares, caminham juntas. É importante que um profissional de TI conheça sobre negócios para que possa ter uma análise crítica em projetos e é interessante também que um profissional de gestão saiba da importância da TI para agregar valor e alavancar o negócio.
 
 > “The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency.” - _Bill Gates_
-
-Em resumo ele diz que a tecnologia usada em uma empresa em que uma automação é aplicada em uma operação eficiente, irá melhorar a eficiência, porém se for aplicada em uma operação ineficiente, irá aumentar a ineficiência, portanto, para um projeto de sucesso é necessário atenção ao negócio e não somente à tecnologia em si.
 
 Abaixo está o meu `JSON` com conhecimentos, experiência e formação:
 
 <pre>
-"Luis Carlos Zancanela" = {
-	"graduation": [
-		"Sistemas de Informação",
-		"Administração de Empresas"
-	],
-	"professionalExperience": {
-		"Prefeitura de Orlândia": "Técnico de Informática",
-		"Prefeitura de Orlândia": "Chefe Administrativo da Divisão de Água e Esgoto"
+luisCarlosZancanela = {
+	graduation: {
+		bachelorDegree: "Sistemas de Informação",
+		bachelorDegree: "Administração de Empresas"
 	},
-	"languages": {
-		"Português": "Nativo",
-		"Inglês": "Intermediário",
-		"Libras": "Iniciante",
-		"Japonês": "Entusiasta"
+	professionalExperience: {
+		prefeituraDeOrlandia: "Técnico de Informática",
+		prefeituraDeOrlandia: "Chefe Administrativo da Divisão de Água e Esgoto"
 	},
-	"technologies": [
+	languages: {
+		portugues: "Nativo",
+		ingles: "Intermediário",
+		libras: "Iniciante",
+		japones: "Entusiasta"
+	},
+	technologies: [
 		"Git",
 		"SQL",
 		"Java",
@@ -41,17 +54,18 @@ Abaixo está o meu `JSON` com conhecimentos, experiência e formação:
 		"CSS",
 		"Bootstrap"
 	],
-	"operatingSystem": [
+	operatingSystem: [
 		"Windows",
 		"Windows Server",
 		"Linux"
 	],
-	"softSkill": [
+	softSkill: [
 		"Resiliência",
 		"Empatia",
 		"Trabalho Colaborativo",
 		"Pensamento Crítico",
 		"Aprendizado Contínuo",
+		"Comunicação",
 		"Ética no Trabalho"
     	]
 } 
