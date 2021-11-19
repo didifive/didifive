@@ -21,7 +21,7 @@
 
 <br>
 
-Apaixonado por TI e Gestão, áreas que mesmo aparentemente distintas são complementares, caminham juntas. É importante que um profissional de TI conheça sobre negócios para que possa ter uma análise crítica em projetos e é interessante também que um profissional de gestão saiba da importância da TI para agregar valor e alavancar o negócio.
+Apaixonado por TI e Gestão, áreas que mesmo aparentemente distintas, são complementares, caminham juntas. Meu objetivo é poder propiciar soluções aos negócios através da TI.
 
 > “The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency.” - _Bill Gates_
 
