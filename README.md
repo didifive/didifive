@@ -25,48 +25,48 @@ Apaixonado por TI e Gestão, áreas que mesmo aparentemente distintas, são comp
 
 > “The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency.” - _Bill Gates_
 
-Abaixo está o meu `JSON` com conhecimentos, experiência e formação:
+Um resumo sobre mim:
 
-<pre>
-luisCarlosZancanela = {
+```javascript
+const luisCarlosZancanela = {
 	graduation: {
-		bachelorDegree: "Sistemas de Informação",
-		bachelorDegree: "Administração de Empresas"
+		bachelorDegree: 'Sistemas de Informação',
+		bachelorDegree: 'Administração de Empresas'
 	},
 	professionalExperience: {
-		prefeituraDeOrlandia: "Técnico de Informática",
-		prefeituraDeOrlandia: "Chefe Administrativo da Divisão de Água e Esgoto"
+		prefeituraDeOrlandia: 'Técnico de Informática',
+		prefeituraDeOrlandia: 'Chefe Administrativo da Divisão de Água e Esgoto'
 	},
 	languages: {
-		portugues: "Nativo",
-		ingles: "Intermediário",
-		libras: "Iniciante",
-		japones: "Entusiasta"
+		portugues: 'Nativo',
+		ingles: 'Intermediário',
+		libras: 'Iniciante',
+		japones: 'Entusiasta'
 	},
 	technologies: [
-		"Git",
-		"SQL",
-		"Java",
-		"Rest API",
-		"JavaScript",
-		"React",
-		"HTML",
-		"CSS",
-		"Bootstrap"
+		'Git',
+		'SQL',
+		'Java',
+		'Rest API',
+		'JavaScript',
+		'React',
+		'HTML',
+		'CSS',
+		'Bootstrap'
 	],
 	operatingSystem: [
-		"Windows",
-		"Windows Server",
-		"Linux"
+		'Windows',
+		'Windows Server',
+		'Linux'
 	],
 	softSkill: [
-		"Resiliência",
-		"Empatia",
-		"Trabalho Colaborativo",
-		"Pensamento Crítico",
-		"Aprendizado Contínuo",
-		"Comunicação",
-		"Ética no Trabalho"
-    	]
+		'Resiliência',
+		'Empatia',
+		'Trabalho Colaborativo',
+		'Pensamento Crítico',
+		'Aprendizado Contínuo',
+		'Comunicação',
+		'Ética no Trabalho'
+	]
 } 
-</pre>
+```
