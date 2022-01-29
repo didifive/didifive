@@ -1,6 +1,9 @@
-# Luis Carlos Zancanela
+# 👋 Hi, I'm Luis Carlos 
 
-## Profissional de TI
+## 💻 TI Professional 
+
+🎯 Fullstack Developer  
+🔖 Java | Javascript | React | Node.js | SQL | NoSQL | QA | DevOps
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-carlos-zancanela/)
 
@@ -21,7 +24,7 @@
 
 <br>
 
-Apaixonado por TI e Gestão, áreas que mesmo aparentemente distintas, são complementares, caminham juntas. Meu objetivo é poder propiciar soluções aos negócios através da TI.
+Apaixonado por TI e Gestão, áreas que mesmo aparentemente distintas, são complementares, caminham juntas. Meu objetivo é poder propiciar soluções aos negócios através do desenvolvimento de sistemas para automação que provenha resultados.
 
 > “The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency.” - _Bill Gates_
 
@@ -43,9 +46,24 @@ const luisCarlosZancanela = {
 		libras: 'Iniciante',
 		japones: 'Entusiasta'
 	},
-	technologies: [
-		'Git',
-		'SQL',
+	operatingSystem: [
+		'Windows',
+		'Windows Server',
+		'Linux'
+	],
+	softSkills: [
+		'Resiliência',
+		'Empatia',
+		'Colaboração e Trabalho em Equipe',
+		'Senso de Dono',
+		'Capacidade de Adaptar às Mudanças',
+		'Empreendedorismo',
+		'Pensamento Crítico',
+		'Aprendizado Contínuo',
+		'Comunicação',
+		'Ética no Trabalho'
+	],
+	hardSkills: [
 		'Java',
 		'Rest API',
 		'Microservices',
@@ -54,23 +72,13 @@ const luisCarlosZancanela = {
 		'Node.js'
 		'SQL',
 		'NoSQL',
+		'Git',
+		'QA',
 		'HTML',
 		'CSS',
-		'Bootstrap'
-	],
-	operatingSystem: [
-		'Windows',
-		'Windows Server',
-		'Linux'
-	],
-	softSkill: [
-		'Resiliência',
-		'Empatia',
-		'Trabalho Colaborativo',
-		'Pensamento Crítico',
-		'Aprendizado Contínuo',
-		'Comunicação',
-		'Ética no Trabalho'
+		'Bootstrap',
+		'DevOps',
+		'SCRUM'
 	]
 } 
 ```
