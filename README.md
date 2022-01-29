@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luis Carlos 
 
-## 💻 TI Professional 
+## 💻 IT Professional 
 
 🎯 Fullstack Developer  
 🔖 Java | Javascript | React | Node.js | SQL | NoSQL | QA | DevOps
@@ -24,11 +24,13 @@
 
 <br>
 
-Apaixonado por TI e Gestão, áreas que mesmo aparentemente distintas, são complementares, caminham juntas. Meu objetivo é poder propiciar soluções aos negócios através do desenvolvimento de sistemas para automação que provenha resultados.
+Apaixonado por TI e Gestão, áreas que mesmo aparentemente distintas, são complementares, caminham juntas. Meu objetivo é poder propiciar soluções aos negócios através do desenvolvimento de sistemas para automação que geram resultados.
 
 > “The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency.” - _Bill Gates_
 
-Um resumo sobre mim:
+---
+
+A summary about me:
 
 ```javascript
 const luisCarlosZancanela = {
