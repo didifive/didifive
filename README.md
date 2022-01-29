@@ -52,6 +52,8 @@ const luisCarlosZancanela = {
 		'JavaScript',
 		'React',
 		'Node.js'
+		'SQL',
+		'NoSQL',
 		'HTML',
 		'CSS',
 		'Bootstrap'
