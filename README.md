@@ -48,8 +48,10 @@ const luisCarlosZancanela = {
 		'SQL',
 		'Java',
 		'Rest API',
+		'Microservices',
 		'JavaScript',
 		'React',
+		'Node.js'
 		'HTML',
 		'CSS',
 		'Bootstrap'
