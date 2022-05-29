@@ -1,5 +1,5 @@
 <h1 align="center">
-	Hi 👋, I'm Luis Carlos
+	Hi 👋, I'm Luis Zancanela
 </h1>
 <h3 align="center">
 	A passionate fullstack developer from Brazil who loves Java and Javascript
