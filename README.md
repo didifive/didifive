@@ -22,7 +22,7 @@ _I am passionate about technology, either at work or as a hobby I live it and I 
 
 - 🌱 I’m always learning **Frameworks, libraries, design patterns and clean code**
 
-- 💬 Ask me about **Java, Spring, Apache Camel, SQL, Databases, Cloud, Javascript, Typescript, Node, HTML and CSS**
+- 💬 Ask me about **Java, Spring, Apache Camel, SQL, Databases, Cloud, Azure, Javascript, Typescript, Node, HTML and CSS**
 
 ### Connect with me:
 <p align="left">
