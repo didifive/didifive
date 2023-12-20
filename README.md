@@ -2,7 +2,7 @@
 	Hi 👋, I'm Luis Zancanela
 </h1>
 <p align="center">
-	<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=22&duration=4749&pause=1250&color=5094F0&center=true&vCenter=true&lines=A+passionate+fullstack+developer;who+loves+Java+and+Javascript;from+Brazil+to+World" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=22&duration=4749&pause=1250&color=5094F0&center=true&vCenter=true&lines=A+passionate+developer;who+loves+Java+and+Javascript;from+Brazil+to+World" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
